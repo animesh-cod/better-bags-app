@@ -1,3 +1,6 @@
-/node_modules
-.env
-/.adminbro
+*.pyc
+project.lock.json
+bin/
+obj/
+.vs/
+node_modules/
